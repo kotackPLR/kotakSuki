@@ -1,5 +1,5 @@
 # kotak
-https://github.com/kotackPLR/kotakSuki.githttps://github.com/kotackPLR/kotakSuki.githttps://github.com/kotackPLR/kotakSuki.git<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
